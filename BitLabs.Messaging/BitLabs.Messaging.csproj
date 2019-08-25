@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>BitLabs Messaging SDK.
+Supports sending SMS messages using BitLabs Messaging.
+You need to have an account at http://messaging.bitlabs.com.ng to make use of this sdk.</Description>
+    <Copyright>SDK is freely available for use by all BitLabs customers</Copyright>
+    <PackageProjectUrl>http://messaging.bitlabs.com.ng</PackageProjectUrl>
+    <PackageIconUrl>https://bitlabs.com.ng/favicon.png</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>
