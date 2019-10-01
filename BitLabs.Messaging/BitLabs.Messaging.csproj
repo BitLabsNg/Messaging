@@ -9,6 +9,12 @@ You need to have an account at http://messaging.bitlabs.com.ng to make use of th
     <Copyright>SDK is freely available for use by all BitLabs customers</Copyright>
     <PackageProjectUrl>http://messaging.bitlabs.com.ng</PackageProjectUrl>
     <PackageIconUrl>https://bitlabs.com.ng/favicon.png</PackageIconUrl>
+    <PackageReleaseNotes />
+    <Company>BitLabs Ltd</Company>
+    <Authors>Bit Labs Ltd</Authors>
+    <RepositoryType />
+    <PackageTags>SMS, InfoBip, BitLabs, Messaging</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
